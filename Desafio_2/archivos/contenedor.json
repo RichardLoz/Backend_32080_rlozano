@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Drone Phantom DJI 4",
+    "price": 300000,
+    "thumbnail": "https://djistore.com.ar/wp-content/uploads/2021/03/d55541dae0fb81a6dae74c750bedeec8@origin.jpg",
+    "id": 1
+  },
+  {
+    "title": "Drone DJI Air 2S",
+    "price": 400000,
+    "thumbnail": "https://cdn.pocket-lint.com/r/s/x1920/assets/images/130265-drones-news-buyer-s-guide-best-drones-image22-r2dkig0qul.jpg",
+    "id": 2
+  },
+  {
+    "title": "Drone Gadnic XP1",
+    "price": 200000,
+    "thumbnail": "https://www.bidcom.com.ar/publicacionesML/productos/DRGAD006/1000x1000-DRGAD006.jpg",
+    "id": 3
+  }
+]
